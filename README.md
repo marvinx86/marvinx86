@@ -19,4 +19,4 @@
  #security*
  
 - **:computer: MOST USED LANGUAGES**
-*C && PYTHON*
+- *C && PYTHON*
