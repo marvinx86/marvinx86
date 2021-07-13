@@ -1,30 +1,16 @@
-<!DOCTYPE html>
+         __             _,-"~^"-.
+       _// )      _,-"~`         `.
+     ." ( /`"-,-"`                 ;
+    / 6                             ;
+   /           ,             ,-"     ;
+  (,__.--.      \           /        ;
+   //'   /`-.\   |          |        `._________
+     _.-'_/`  )  )--...,,,___\     \-----------,)
+   ((("~` _.-'.-'           __`-.   )         //
+     jgs ((("`             (((---~"`         //
+                                            ((________________
+                                            `----""""~~~~^^^```
 
-<html>
 
-    <head>
-        <title>©MarvinKnight</title>
-        <meta CHARSET="UTF-8">
-    </head>
-
-    <body bgcolor="white">
-    <font face="Arial">
-    <div align="center">
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <img src="https://art.pixilart.com/3a6b20558b16249.gif" width="250" height="200">
-    <h3>Marvin Knight.</h3>
-    <h4>CONTACT</h4>
-    <p>MATRIX: marvinknight:matrix.org</p>
-    <p>PROTON MAIL: m4rvinknight@protonmail.com</p>
-    <p>IRC: br3ircdrchatmfsk.onion/6667 #jurassicpark</p>
-    <marquee><font color="red"><b>Are u be afraid?</b></marquee></font>
-    </div>
-        
-    </body>
-
-</html>
-
+br3ircdrchatmfsk.onion/6667
+/join #jurassicpark +k devilhateyou
